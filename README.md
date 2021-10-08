@@ -18,6 +18,14 @@ Its functionality involves:
     3. Google search 
     etc.
 
+- It can tell you the current date and day.
+
+- It can tell you the weather condition in any city around the world (Temperature, Humidity, Wind speed, weather description,pressure).
+
+- It can tell you jokes.
+
+- It can open desktop applications for you.
+
 - You can send mails by voice control or by texting it to the virtual assistant.
 
 - You can directly perform simple mathematical calculations in it.
@@ -34,7 +42,7 @@ To use the code locally, you'll firstly need to have Python v3 installed. You ca
 
 Then, you'll need to run the following command to ensure that all the related dependencies are configured into your system.
 
-     python -m pip install pyttsx3 speech_recognition wikipedia smtplib googletrans difflib
+     python -m pip install pyttsx3 speech_recognition wikipedia smtplib googletrans difflib pyjokes
 
 **NOTE**: In Ubuntu and Mac OS, use `python3` instead of `python`, if both _Python 2_ as well as _Python 3_ have come installed in your system.
 
