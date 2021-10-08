@@ -1,7 +1,0 @@
--feature for telling weather condition (Temperature, Humidity, Wind speed, weather description,pressure)
--feature for telling jokes
--feature for opening desktop apps
--tells the day and date when asked 
--responding to greetings like hi and hello
-
-After you have reviewed it, please delete this file.
